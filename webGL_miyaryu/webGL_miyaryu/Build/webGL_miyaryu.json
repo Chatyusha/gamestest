@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "nadakou",
+"productVersion": "0.1",
+"dataUrl": "webGL_miyaryu.data.unityweb",
+"wasmCodeUrl": "webGL_miyaryu.wasm.code.unityweb",
+"wasmFrameworkUrl": "webGL_miyaryu.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
